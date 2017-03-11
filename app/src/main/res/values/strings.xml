@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fish News</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_webview">webview</string>
+</resources>
