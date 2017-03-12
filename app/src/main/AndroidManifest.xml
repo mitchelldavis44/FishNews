@@ -18,15 +18,6 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".WebViewActivity"
-            android:label="@string/title_activity_web_view"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.mts2792.fishnews.MainActivity" />
-        </activity>
-        <activity
             android:name=".webview"
             android:label="@string/title_activity_webview"
             android:parentActivityName=".MainActivity"

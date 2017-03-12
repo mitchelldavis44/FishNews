@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         protected void onPostExecute(Integer result) {
-            final Intent intent = new Intent(getApplicationContext(), WebViewActivity.class);
+            final Intent intent = new Intent(getApplicationContext(), webview.class);
 
             progressBar.setVisibility(View.GONE);
 
